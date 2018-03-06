@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e64a1071-aebb-4233-a0d9-1a34aa2c2d89" name="Optimization" url="http://192.168.6.147">
+        <fileTransfer host="192.168.6.147" port="22" rootFolder="/home/xusenlan/Reading/Optimization" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
